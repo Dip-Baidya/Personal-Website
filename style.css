@@ -1,0 +1,113 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+section{
+    height: 600px;
+    padding: 200px;
+
+}
+#section-modify{
+    height: 300px;
+   
+}
+h1{
+    font-size:50px;
+}
+h2 {
+    font-size: 40px;
+    height: 15px;
+   
+}
+p{
+    color: dimgray;
+    margin-bottom: 35px;
+}
+
+.hotpink-highlight{
+    color:hotpink;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+.left-side {
+    margin-top: 7%;
+    margin-left: 9%;
+}
+
+.half-width img{
+    width:100%;
+}
+.top-banner{
+    background: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+.link-button{
+    text-decoration: none;
+    background-color: hotpink;
+    color: white;
+    padding:10px 35px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.biography-banner{
+    background: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.biography-left-side{
+    margin-top: 5%;  
+}
+
+
+.latest-work-banner{
+    background: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    
+    
+}
+
+.latest-work-h2{
+    text-align: center;
+    margin-top: 5%;
+}
+
+.Latest-Work-image{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 1%;
+    margin-top: 6%;
+
+}
+.Latest-Work-image:hover{
+    box-shadow: 5px 10px 40px gray;
+    height: 100%;
+    background-color: white;
+}
+
+
+.footer-banner{
+    background: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    
+}
+
+.footer-link-button{
+    text-decoration: none;
+    background-color: hotpink;
+    color: white;
+    border-radius: 10px;
+    font-weight: bold;
+    margin: 100px;
+    padding: 100px;
+}
+
+
+
